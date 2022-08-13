@@ -1,0 +1,60 @@
+
+.nav-conteiner ul {
+    height: 50px;
+    line-height: 25px;
+}
+
+.nav-conteiner li {
+    list-style: none;
+    float: left;
+    margin: 0 15px;
+}
+
+.dados-conteiner {
+    display: flex;
+}
+
+.dados-conteiner ul {
+    line-height: 35px;
+   
+}
+
+.contato-container {
+    line-height: 25px;
+}
+
+.identificação-conteiner {
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em
+}
+
+.endereco-conteiner {
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em
+}
+
+.formacao-container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em
+}
+
+.atuacao-container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em
+}
+
+.idioma-container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em
+}
+
+.contato-container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em
+}

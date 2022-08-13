@@ -1,0 +1,41 @@
+.dash-conteiner {
+    display: flex;
+    padding: 5%;
+}
+
+.dash {
+    display: flex;
+    flex-direction: column;
+    margin-left: 2%;
+    border: black 3px solid;
+}
+
+.dash:hover {
+    background-color: lightgrey;
+    transition: 1s;
+}
+
+.dash-content {
+    width: 350px;
+    height: 150px;
+    text-align: center;
+}
+
+.dash-content h2 {
+    margin: 5%;
+}
+
+.dash-content span {
+    font-size: 150%;
+}
+
+.graficos-conteiner {
+    display: flex;
+    padding: 5%; 
+}
+
+.graficos-conteiner img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
